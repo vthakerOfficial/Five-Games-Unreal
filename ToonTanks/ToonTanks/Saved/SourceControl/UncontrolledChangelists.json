@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/noobk/OneDrive/Documents/Unreal Projects/ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_Tank.uasset",
+				"C:/Users/noobk/OneDrive/Documents/Unreal Projects/ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_Tower.uasset",
+				"C:/Users/noobk/OneDrive/Documents/Unreal Projects/ToonTanks/ToonTanks/Content/Maps/Main.umap",
+				"C:/Users/noobk/OneDrive/Documents/Unreal Projects/ToonTanks/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset",
+				"C:/Users/noobk/OneDrive/Documents/Unreal Projects/ToonTanks/ToonTanks/Content/Blueprints/GameMode/BP_ToonTanksGameMode.uasset",
+				"C:/Users/noobk/OneDrive/Documents/Unreal Projects/ToonTanks/ToonTanks/Content/Blueprints/PlayerController/BP_ToonTanksPlayerController.uasset",
+				"C:/Users/noobk/OneDrive/Documents/Unreal Projects/ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset",
+				"C:/Users/noobk/OneDrive/Documents/Unreal Projects/ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_EndGameWidget.uasset",
+				"C:/Users/noobk/OneDrive/Documents/Unreal Projects/ToonTanks/ToonTanks/Content/Blueprints/CameraShake/BP_DeathCameraShake.uasset",
+				"C:/Users/noobk/OneDrive/Documents/Unreal Projects/ToonTanks/ToonTanks/Content/Blueprints/CameraShake/BP_HitCameraShake.uasset"
+			]
+		}
+	]
+}
