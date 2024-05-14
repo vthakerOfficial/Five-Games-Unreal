@@ -1,0 +1,1 @@
+#include "C:/Users/noobk/OneDrive/Documents/Unreal Projects/SimpleShooter/Source/SimpleShooter/Gun.h"

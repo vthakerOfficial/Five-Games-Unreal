@@ -1,0 +1,33 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SimpleShooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\SimpleShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\BTService_PlayerLocation.gen.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\BTService_PlayerLocationIfSeen.gen.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\BTTask_ClearBlackboardValue.gen.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\BTTask_Shoot.gen.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\Gun.gen.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\KillEmAllGameMode.gen.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\ShooterAiController.gen.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\ShooterCharacter.gen.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\ShooterPlayerController.gen.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\SimpleShooter.init.gen.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\SimpleShooterGameModeBase.gen.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\BTService_PlayerLocation.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\BTService_PlayerLocationIfSeen.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\BTTask_ClearBlackboardValue.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\BTTask_Shoot.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\Gun.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\KillEmAllGameMode.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\ShooterAiController.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\ShooterCharacter.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\ShooterPlayerController.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\SimpleShooter.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\SimpleShooterGameModeBase.cpp.obj"
+"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\Default.rc2.res"
+/OUT:"C:\Users\noobk\OneDrive\Documents\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\UnrealEditor-SimpleShooter.lib"
